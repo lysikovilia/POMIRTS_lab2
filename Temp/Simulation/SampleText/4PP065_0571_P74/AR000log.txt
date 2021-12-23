@@ -1,0 +1,21 @@
+Mon Apr 05 21:07:18 2021
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Mon Apr 05 21:07:18 2021
+No ARsim registration found!
+
+Mon Apr 05 21:07:18 2021
+InstanceName: 01d72a46843370c0
+
+Mon Apr 05 21:07:18 2021
+WorkingDirectory: C:\Users\admin\Desktop\lab2_POMIRTS-master\Temp\Simulation\SampleText\4PP065_0571_P74\
+
+Mon Apr 05 21:07:18 2021
+COMMAND_COLDSTART
+
+Mon Apr 05 21:07:20 2021
+Version: D4.52
+
+Mon Apr 05 21:08:11 2021
+COMMAND_TERMINATE
+
